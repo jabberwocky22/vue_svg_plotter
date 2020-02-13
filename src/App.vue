@@ -1,8 +1,9 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-    <renderer msg="Welcome to my SVG plotter Excise" />
-  </div>
+<div id="app">
+  <img alt="Vue logo" src="./assets/logo.png" />
+  <renderer msg="Welcome to my SVG plotter" />
+  <renderer msg="LOVE You! Stenie!" />
+</div>
 </template>
 
 <script>
