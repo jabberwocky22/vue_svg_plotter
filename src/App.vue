@@ -1,8 +1,8 @@
 <template>
 <div id="app">
   <img alt="Vue logo" src="./assets/logo.png" />
+  <span>Love You! Stenie~</span>
   <renderer msg="Welcome to my SVG plotter" />
-  <renderer msg="LOVE You! Stenie!" />
 </div>
 </template>
 
